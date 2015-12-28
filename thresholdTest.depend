@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1451269392 source:c:\users\nurhikmah afief\documents\codeblocks\thresholdtest\main.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+
